@@ -1,0 +1,15 @@
+#mainrow{
+    height:640px;
+    background-color: black;
+   border-radius: 35px;
+}
+#display{
+    background-color: white;
+    height: 70px;
+    font-size: 25px;
+    justify-content: end;
+}
+#equalsign{
+    height: 144px;
+    
+}
