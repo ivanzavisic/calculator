@@ -1,4 +1,5 @@
 # calculator
 Html, Css, Javascript
 
-[Demo](./calc.html)
+[Demo](https://ivanzavisic.github.io/calculator)
+
